@@ -21,4 +21,5 @@ numero1 = lee_numero()
 numero2 = lee_numero()
 numero3 = lee_numero()
 
+#Le paso estos 3 números a mayor para que devuelva el número mayor de los 3
 print(mayor(numero1, numero2, numero3))
