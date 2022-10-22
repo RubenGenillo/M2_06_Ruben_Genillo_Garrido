@@ -34,7 +34,7 @@ numero3 = lee_numero()
 print(mayor(numero1, numero2, numero3))
 
 #3.
-#Creo una función llamada imc, que reciba el peso (en kilos) y talla (en metros) de una persona, y calcule y proporcione el estado nutricional de una persona
+#Creo una función llamada imc, que reciba el peso (en kilos) y talla (en metros) de una persona, y calcule y proporcione el estado nutricional de esta
 def imc(peso, talla):
     Imc = peso/(talla**2)
     tabla = {
