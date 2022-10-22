@@ -17,7 +17,6 @@ def area_circulo():
     radio = inputfloat("Dame el radio de una circunferencia: ")
     return math.pi * radio**2
 
-
 #2.
 #Creo una función llamada lee_numero() que pida y lea un número
 def lee_numero():   
