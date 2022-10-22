@@ -1,4 +1,4 @@
-#Creo una función llamada imc, que reciba el peso (en kilos) y talla (en metros) de una persona, y calcule y proporcione el estado nutricional de una persona
+#Creo una función llamada imc, que reciba el peso (en kilos) y talla (en metros) de una persona, y calcule y proporcione el estado nutricional de esta
 def imc(peso, talla):
     Imc = peso/(talla**2)
     tabla = {
